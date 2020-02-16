@@ -4,7 +4,7 @@ My first foray into computer algebra systems! Provides a system for parsing, sim
 
 Currently supports
  - Addition and Subtraction
- - Multiplcation and Division
+ - Multiplication and Division
  - Exponentiation and Logarithms
  - Trig. and Inverse Trig. functions
  
